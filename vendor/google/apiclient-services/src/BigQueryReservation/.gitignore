@@ -1,0 +1,15 @@
+/Assignment.php
+/BiReservation.php
+/BigqueryreservationEmpty.php
+/CapacityCommitment.php
+/ListAssignmentsResponse.php
+/ListCapacityCommitmentsResponse.php
+/ListReservationsResponse.php
+/MergeCapacityCommitmentsRequest.php
+/MoveAssignmentRequest.php
+/Reservation.php
+/SearchAllAssignmentsResponse.php
+/SearchAssignmentsResponse.php
+/SplitCapacityCommitmentRequest.php
+/SplitCapacityCommitmentResponse.php
+/Status.php

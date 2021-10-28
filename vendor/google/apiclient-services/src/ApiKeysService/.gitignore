@@ -1,0 +1,15 @@
+/Operation.php
+/Status.php
+/V2AndroidApplication.php
+/V2AndroidKeyRestrictions.php
+/V2ApiTarget.php
+/V2BrowserKeyRestrictions.php
+/V2CloneKeyRequest.php
+/V2GetKeyStringResponse.php
+/V2IosKeyRestrictions.php
+/V2Key.php
+/V2ListKeysResponse.php
+/V2LookupKeyResponse.php
+/V2Restrictions.php
+/V2ServerKeyRestrictions.php
+/V2UndeleteKeyRequest.php

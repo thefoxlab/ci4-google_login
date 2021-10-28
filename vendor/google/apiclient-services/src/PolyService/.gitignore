@@ -1,0 +1,15 @@
+/Asset.php
+/AssetImportMessage.php
+/Format.php
+/FormatComplexity.php
+/ImageError.php
+/ListAssetsResponse.php
+/ListLikedAssetsResponse.php
+/ListUserAssetsResponse.php
+/ObjParseError.php
+/PolyFile.php
+/PresentationParams.php
+/Quaternion.php
+/RemixInfo.php
+/StartAssetImportResponse.php
+/UserAsset.php

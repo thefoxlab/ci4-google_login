@@ -1,0 +1,16 @@
+/ListOperationsResponse.php
+/LongRunningRecognizeMetadata.php
+/LongRunningRecognizeRequest.php
+/LongRunningRecognizeResponse.php
+/Operation.php
+/RecognitionAudio.php
+/RecognitionConfig.php
+/RecognitionMetadata.php
+/RecognizeRequest.php
+/RecognizeResponse.php
+/SpeakerDiarizationConfig.php
+/SpeechContext.php
+/SpeechRecognitionAlternative.php
+/SpeechRecognitionResult.php
+/Status.php
+/WordInfo.php

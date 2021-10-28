@@ -1,0 +1,7 @@
+/AudioConfig.php
+/ListVoicesResponse.php
+/SynthesisInput.php
+/SynthesizeSpeechRequest.php
+/SynthesizeSpeechResponse.php
+/Voice.php
+/VoiceSelectionParams.php

@@ -1,0 +1,10 @@
+/ApiDataRow.php
+/ApiDimensionFilter.php
+/ApiDimensionFilterGroup.php
+/SearchAnalyticsQueryRequest.php
+/SearchAnalyticsQueryResponse.php
+/SitemapsListResponse.php
+/SitesListResponse.php
+/WmxSite.php
+/WmxSitemap.php
+/WmxSitemapContent.php

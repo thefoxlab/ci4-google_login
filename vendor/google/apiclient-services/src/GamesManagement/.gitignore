@@ -1,0 +1,14 @@
+/AchievementResetAllResponse.php
+/AchievementResetMultipleForAllRequest.php
+/AchievementResetResponse.php
+/EventsResetMultipleForAllRequest.php
+/GamesPlayerExperienceInfoResource.php
+/GamesPlayerLevelResource.php
+/HiddenPlayer.php
+/HiddenPlayerList.php
+/Player.php
+/PlayerName.php
+/PlayerScoreResetAllResponse.php
+/PlayerScoreResetResponse.php
+/ProfileSettings.php
+/ScoresResetMultipleForAllRequest.php

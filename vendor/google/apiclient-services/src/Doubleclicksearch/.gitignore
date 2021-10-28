@@ -1,0 +1,17 @@
+/Availability.php
+/Conversion.php
+/ConversionList.php
+/CustomDimension.php
+/CustomMetric.php
+/Report.php
+/ReportApiColumnSpec.php
+/ReportFiles.php
+/ReportRequest.php
+/ReportRequestFilters.php
+/ReportRequestOrderBy.php
+/ReportRequestReportScope.php
+/ReportRequestTimeRange.php
+/SavedColumn.php
+/SavedColumnList.php
+/UpdateAvailabilityRequest.php
+/UpdateAvailabilityResponse.php

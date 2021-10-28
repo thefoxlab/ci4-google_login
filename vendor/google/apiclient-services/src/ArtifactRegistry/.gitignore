@@ -1,0 +1,9 @@
+/ArtifactregistryEmpty.php
+/CancelOperationRequest.php
+/DockerImage.php
+/ListDockerImagesResponse.php
+/ListOperationsResponse.php
+/ListRepositoriesResponse.php
+/Operation.php
+/Repository.php
+/Status.php

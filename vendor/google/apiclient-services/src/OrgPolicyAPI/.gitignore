@@ -1,0 +1,11 @@
+/GoogleCloudOrgpolicyV2Constraint.php
+/GoogleCloudOrgpolicyV2ConstraintBooleanConstraint.php
+/GoogleCloudOrgpolicyV2ConstraintListConstraint.php
+/GoogleCloudOrgpolicyV2ListConstraintsResponse.php
+/GoogleCloudOrgpolicyV2ListPoliciesResponse.php
+/GoogleCloudOrgpolicyV2Policy.php
+/GoogleCloudOrgpolicyV2PolicySpec.php
+/GoogleCloudOrgpolicyV2PolicySpecPolicyRule.php
+/GoogleCloudOrgpolicyV2PolicySpecPolicyRuleStringValues.php
+/GoogleProtobufEmpty.php
+/GoogleTypeExpr.php

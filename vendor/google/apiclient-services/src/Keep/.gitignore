@@ -1,0 +1,16 @@
+/Attachment.php
+/BatchCreatePermissionsRequest.php
+/BatchCreatePermissionsResponse.php
+/BatchDeletePermissionsRequest.php
+/CreatePermissionRequest.php
+/Family.php
+/Group.php
+/KeepEmpty.php
+/ListContent.php
+/ListItem.php
+/ListNotesResponse.php
+/Note.php
+/Permission.php
+/Section.php
+/TextContent.php
+/User.php

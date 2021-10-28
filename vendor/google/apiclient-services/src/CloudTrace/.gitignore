@@ -1,0 +1,17 @@
+/Annotation.php
+/AttributeValue.php
+/Attributes.php
+/BatchWriteSpansRequest.php
+/CloudtraceEmpty.php
+/Link.php
+/Links.php
+/MessageEvent.php
+/Module.php
+/Span.php
+/StackFrame.php
+/StackFrames.php
+/StackTrace.php
+/Status.php
+/TimeEvent.php
+/TimeEvents.php
+/TruncatableString.php

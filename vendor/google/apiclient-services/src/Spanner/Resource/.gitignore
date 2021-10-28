@@ -1,0 +1,12 @@
+/Projects.php
+/ProjectsInstanceConfigs.php
+/ProjectsInstances.php
+/ProjectsInstancesBackupOperations.php
+/ProjectsInstancesBackups.php
+/ProjectsInstancesBackupsOperations.php
+/ProjectsInstancesDatabaseOperations.php
+/ProjectsInstancesDatabases.php
+/ProjectsInstancesDatabasesOperations.php
+/ProjectsInstancesDatabasesSessions.php
+/ProjectsInstancesOperations.php
+/Scans.php

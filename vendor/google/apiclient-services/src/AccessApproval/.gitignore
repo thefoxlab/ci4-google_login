@@ -1,0 +1,12 @@
+/AccessApprovalSettings.php
+/AccessLocations.php
+/AccessReason.php
+/AccessapprovalEmpty.php
+/ApprovalRequest.php
+/ApproveApprovalRequestMessage.php
+/ApproveDecision.php
+/DismissApprovalRequestMessage.php
+/DismissDecision.php
+/EnrolledService.php
+/ListApprovalRequestsResponse.php
+/ResourceProperties.php

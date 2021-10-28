@@ -1,0 +1,14 @@
+/IamPolicies.php
+/Organizations.php
+/OrganizationsRoles.php
+/Permissions.php
+/Projects.php
+/ProjectsLocations.php
+/ProjectsLocationsWorkloadIdentityPools.php
+/ProjectsLocationsWorkloadIdentityPoolsOperations.php
+/ProjectsLocationsWorkloadIdentityPoolsProviders.php
+/ProjectsLocationsWorkloadIdentityPoolsProvidersOperations.php
+/ProjectsRoles.php
+/ProjectsServiceAccounts.php
+/ProjectsServiceAccountsKeys.php
+/Roles.php

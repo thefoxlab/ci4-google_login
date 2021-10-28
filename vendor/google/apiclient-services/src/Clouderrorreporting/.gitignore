@@ -1,0 +1,15 @@
+/DeleteEventsResponse.php
+/ErrorContext.php
+/ErrorEvent.php
+/ErrorGroup.php
+/ErrorGroupStats.php
+/HttpRequestContext.php
+/ListEventsResponse.php
+/ListGroupStatsResponse.php
+/ReportErrorEventResponse.php
+/ReportedErrorEvent.php
+/ServiceContext.php
+/SourceLocation.php
+/SourceReference.php
+/TimedCount.php
+/TrackingIssue.php

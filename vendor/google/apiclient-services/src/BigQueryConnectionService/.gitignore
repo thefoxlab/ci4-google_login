@@ -1,0 +1,16 @@
+/AuditConfig.php
+/AuditLogConfig.php
+/BigqueryconnectionEmpty.php
+/Binding.php
+/CloudSqlCredential.php
+/CloudSqlProperties.php
+/Connection.php
+/ConnectionCredential.php
+/Expr.php
+/GetIamPolicyRequest.php
+/GetPolicyOptions.php
+/ListConnectionsResponse.php
+/Policy.php
+/SetIamPolicyRequest.php
+/TestIamPermissionsRequest.php
+/TestIamPermissionsResponse.php

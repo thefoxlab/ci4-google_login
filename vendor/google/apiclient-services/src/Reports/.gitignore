@@ -1,0 +1,16 @@
+/Activities.php
+/Activity.php
+/ActivityActor.php
+/ActivityEvents.php
+/ActivityEventsParameters.php
+/ActivityEventsParametersMessageValue.php
+/ActivityEventsParametersMultiMessageValue.php
+/ActivityId.php
+/Channel.php
+/NestedParameter.php
+/UsageReport.php
+/UsageReportEntity.php
+/UsageReportParameters.php
+/UsageReports.php
+/UsageReportsWarnings.php
+/UsageReportsWarningsData.php

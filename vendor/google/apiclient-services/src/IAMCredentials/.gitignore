@@ -1,0 +1,8 @@
+/GenerateAccessTokenRequest.php
+/GenerateAccessTokenResponse.php
+/GenerateIdTokenRequest.php
+/GenerateIdTokenResponse.php
+/SignBlobRequest.php
+/SignBlobResponse.php
+/SignJwtRequest.php
+/SignJwtResponse.php

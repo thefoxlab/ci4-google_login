@@ -1,0 +1,12 @@
+/EmptyResponse.php
+/ErrorProto.php
+/Errors.php
+/Group.php
+/GroupContentDetails.php
+/GroupItem.php
+/GroupItemResource.php
+/GroupSnippet.php
+/ListGroupItemsResponse.php
+/ListGroupsResponse.php
+/QueryResponse.php
+/ResultTableColumnHeader.php

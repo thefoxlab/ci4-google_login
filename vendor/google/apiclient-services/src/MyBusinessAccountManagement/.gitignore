@@ -1,0 +1,14 @@
+/AcceptInvitationRequest.php
+/Account.php
+/Admin.php
+/DeclineInvitationRequest.php
+/Invitation.php
+/ListAccountAdminsResponse.php
+/ListAccountsResponse.php
+/ListInvitationsResponse.php
+/ListLocationAdminsResponse.php
+/MybusinessaccountmanagementEmpty.php
+/OrganizationInfo.php
+/PostalAddress.php
+/TargetLocation.php
+/TransferLocationRequest.php

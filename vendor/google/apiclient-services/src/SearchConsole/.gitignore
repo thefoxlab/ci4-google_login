@@ -1,0 +1,17 @@
+/ApiDataRow.php
+/ApiDimensionFilter.php
+/ApiDimensionFilterGroup.php
+/BlockedResource.php
+/Image.php
+/MobileFriendlyIssue.php
+/ResourceIssue.php
+/RunMobileFriendlyTestRequest.php
+/RunMobileFriendlyTestResponse.php
+/SearchAnalyticsQueryRequest.php
+/SearchAnalyticsQueryResponse.php
+/SitemapsListResponse.php
+/SitesListResponse.php
+/TestStatus.php
+/WmxSite.php
+/WmxSitemap.php
+/WmxSitemapContent.php

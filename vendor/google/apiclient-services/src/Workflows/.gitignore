@@ -1,0 +1,9 @@
+/ListLocationsResponse.php
+/ListOperationsResponse.php
+/ListWorkflowsResponse.php
+/Location.php
+/Operation.php
+/OperationMetadata.php
+/Status.php
+/Workflow.php
+/WorkflowsEmpty.php

@@ -1,0 +1,14 @@
+/AccessToken.php
+/ApplicationDefaultCredentials.php
+/CacheTrait.php
+/CredentialsLoader.php
+/FetchAuthTokenCache.php
+/FetchAuthTokenInterface.php
+/GCECache.php
+/GetQuotaProjectInterface.php
+/Iam.php
+/OAuth2.php
+/ProjectIdProviderInterface.php
+/ServiceAccountSignerTrait.php
+/SignBlobInterface.php
+/UpdateMetadataInterface.php

@@ -1,0 +1,11 @@
+/AchievementConfiguration.php
+/AchievementConfigurationDetail.php
+/AchievementConfigurationListResponse.php
+/GamesNumberAffixConfiguration.php
+/GamesNumberFormatConfiguration.php
+/ImageConfiguration.php
+/LeaderboardConfiguration.php
+/LeaderboardConfigurationDetail.php
+/LeaderboardConfigurationListResponse.php
+/LocalizedString.php
+/LocalizedStringBundle.php

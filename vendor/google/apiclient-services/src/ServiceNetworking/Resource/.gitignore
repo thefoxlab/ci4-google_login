@@ -1,0 +1,10 @@
+/Operations.php
+/Services.php
+/ServicesConnections.php
+/ServicesDnsRecordSets.php
+/ServicesDnsZones.php
+/ServicesProjects.php
+/ServicesProjectsServicenetworkingGlobal.php
+/ServicesProjectsServicenetworkingGlobalNetworks.php
+/ServicesProjectsServicenetworkingGlobalNetworksPeeredDnsDomains.php
+/ServicesRoles.php

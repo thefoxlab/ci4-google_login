@@ -1,0 +1,16 @@
+/AccountSummaries.php
+/Accounts.php
+/AccountsUserLinks.php
+/Properties.php
+/PropertiesAndroidAppDataStreams.php
+/PropertiesAndroidAppDataStreamsMeasurementProtocolSecrets.php
+/PropertiesConversionEvents.php
+/PropertiesCustomDimensions.php
+/PropertiesCustomMetrics.php
+/PropertiesFirebaseLinks.php
+/PropertiesGoogleAdsLinks.php
+/PropertiesIosAppDataStreams.php
+/PropertiesIosAppDataStreamsMeasurementProtocolSecrets.php
+/PropertiesUserLinks.php
+/PropertiesWebDataStreams.php
+/PropertiesWebDataStreamsMeasurementProtocolSecrets.php

@@ -1,0 +1,9 @@
+/GoogleHomeEnterpriseSdmV1Device.php
+/GoogleHomeEnterpriseSdmV1ExecuteDeviceCommandRequest.php
+/GoogleHomeEnterpriseSdmV1ExecuteDeviceCommandResponse.php
+/GoogleHomeEnterpriseSdmV1ListDevicesResponse.php
+/GoogleHomeEnterpriseSdmV1ListRoomsResponse.php
+/GoogleHomeEnterpriseSdmV1ListStructuresResponse.php
+/GoogleHomeEnterpriseSdmV1ParentRelation.php
+/GoogleHomeEnterpriseSdmV1Room.php
+/GoogleHomeEnterpriseSdmV1Structure.php

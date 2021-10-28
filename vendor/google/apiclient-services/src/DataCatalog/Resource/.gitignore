@@ -1,0 +1,13 @@
+/Catalog.php
+/Entries.php
+/Projects.php
+/ProjectsLocations.php
+/ProjectsLocationsEntryGroups.php
+/ProjectsLocationsEntryGroupsEntries.php
+/ProjectsLocationsEntryGroupsEntriesTags.php
+/ProjectsLocationsEntryGroupsTags.php
+/ProjectsLocationsTagTemplates.php
+/ProjectsLocationsTagTemplatesFields.php
+/ProjectsLocationsTagTemplatesFieldsEnumValues.php
+/ProjectsLocationsTaxonomies.php
+/ProjectsLocationsTaxonomiesPolicyTags.php

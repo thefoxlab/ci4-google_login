@@ -1,0 +1,11 @@
+/GoogleCloudPolicytroubleshooterV1AccessTuple.php
+/GoogleCloudPolicytroubleshooterV1BindingExplanation.php
+/GoogleCloudPolicytroubleshooterV1BindingExplanationAnnotatedMembership.php
+/GoogleCloudPolicytroubleshooterV1ExplainedPolicy.php
+/GoogleCloudPolicytroubleshooterV1TroubleshootIamPolicyRequest.php
+/GoogleCloudPolicytroubleshooterV1TroubleshootIamPolicyResponse.php
+/GoogleIamV1AuditConfig.php
+/GoogleIamV1AuditLogConfig.php
+/GoogleIamV1Binding.php
+/GoogleIamV1Policy.php
+/GoogleTypeExpr.php

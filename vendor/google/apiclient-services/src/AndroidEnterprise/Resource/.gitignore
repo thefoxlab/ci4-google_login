@@ -1,0 +1,16 @@
+/Devices.php
+/Enterprises.php
+/Entitlements.php
+/Grouplicenses.php
+/Grouplicenseusers.php
+/Installs.php
+/Managedconfigurationsfordevice.php
+/Managedconfigurationsforuser.php
+/Managedconfigurationssettings.php
+/Permissions.php
+/Products.php
+/Serviceaccountkeys.php
+/Storelayoutclusters.php
+/Storelayoutpages.php
+/Users.php
+/Webapps.php
